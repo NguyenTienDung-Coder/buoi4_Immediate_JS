@@ -1,0 +1,40 @@
+#stop{
+    display: none;
+}
+
+#timer{
+    font-size: 100px;
+    border: 1px solid;
+    width: 500px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+#controls{
+    width: 500px;
+    text-align: center;
+}
+
+#start{
+    width: 240px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(40, 218, 48);
+    border-radius: 5px;
+}
+
+#stop{
+    width: 240px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: blue;
+    border-radius: 5px;
+}
+
+#clear{
+    width: 240px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: red;
+    border-radius: 5px;
+}
